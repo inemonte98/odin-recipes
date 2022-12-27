@@ -1,0 +1,33 @@
+body {
+    font-family: monospace, monaco;
+}
+
+.picture {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #496B1Fff;
+    font-size: 75px;
+
+}
+
+ul {
+    text-align: center;
+}
+
+button {
+    font-size: 24px;
+    background-color: #231F23ff;
+}
+
+a {
+    color: #E8E4E0ff;
+}
